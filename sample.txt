@@ -1,4 +1,10 @@
-This is a sample text 
+This is a sample text \
+
+Jake Farwell is so cool
 Version 2.0
+<<<<<<< HEAD
 
 master commander
+=======
+I am the master commander
+>>>>>>> 1e238d41d9f2854be08f376e87525a015e4d9c74
