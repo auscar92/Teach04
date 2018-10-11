@@ -1,3 +1,4 @@
 The SM was here! Hey, what now?
 How many times will the SM be here?
 As many times as it takes.
+Now it is time to simulate a merge conflict!
